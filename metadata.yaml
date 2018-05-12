@@ -1,0 +1,53 @@
+_repo: The-Lonely-House_34917
+_version: 0.1.0
+alternative_title: Das einsame Haus. English
+contributor:
+  illustrator:
+    agent_name: Weber-Ditzler, Charlotte
+    aliases:
+    - Ditzler, Charlotte Weber
+    - Ditzler, Ch. W.
+    - Weber, Charlotte
+    - Weber-Ditzler, Ch.
+    birthdate: 1877
+    deathdate: 1958
+    gutenberg_agent_id: '36198'
+    url: http://www.gutenberg.org/2009/agents/36198
+  translator:
+    agent_name: Wister, A. L. (Annis Lee)
+    aliases:
+    - Wister, A.L.
+    - Wister, Mrs. A. L.
+    - Wister, Annis Lee
+    - Furness, Annis Lee
+    birthdate: 1830
+    deathdate: 1908
+    gutenberg_agent_id: '37305'
+    url: http://www.gutenberg.org/2009/agents/37305
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Streckfuss, Adolf
+    aliases:
+    - Streckfuss, Adolph
+    - Carl, Adolph
+    birthdate: 1823
+    deathdate: 1895
+    gutenberg_agent_id: '37304'
+    url: http://www.gutenberg.org/2009/agents/37304
+description: ''
+gutenberg_issued: '2011-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34917'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into English'
+- !lcc 'PT'
+title: The Lonely House
+url: http://www.gutenberg.org/ebooks/34917
